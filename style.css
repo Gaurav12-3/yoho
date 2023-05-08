@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+}
+#yo{
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+font-family: 'Libre Baskerville', serif;
+color:white;
+}
+img{
+    border: 7px solid rgb(255, 255, 255);
+    border-width: 1px 3px 5px 9px;
+    margin-top: 40px;
+}
+
+span{
+    color: yellow;
+}
+
